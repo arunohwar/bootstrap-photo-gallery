@@ -16,3 +16,12 @@ http://fearlessflyer.com/next-and-previous-buttons-bootstrap-photo-gallery/
 
 To view the demo: 
 http://demo.fearlessflyer.com/html/demo/bootstrap-photo-gallery/
+
+++Additions
+1. Typo : Added https to src for script for jquery.min.js file.
+
+2. Added the keyboard left and right buttons click functionality based on the suggestion (see michael's reply in comments) on http://michaelsoriano.com/next-and-previous-buttons-bootstrap-photo-gallery/
+
+3. Adding support to show responsive-larger!! images on all viewports. Made the code more responsive by adding % values instead of pixels for bootstrap modal dialog.
+
+
