@@ -1,7 +1,7 @@
 $(document).ready(function(){        
 	$('li img').on('click',function(){
 		var src = $(this).attr('src');
-		var img = '<img src="' + src + '" class="img-responsive"/>';
+		var img = '<img src="' + src + '" class="img-responsive" ' + ' width="100%" />';
 		
 		//start of new code new code
 		var index = $(this).parent('li').index();   
